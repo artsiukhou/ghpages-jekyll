@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Be Best Dev"
+title: "Test blog"
 subtitle: "Learning programming"
-name: "Vova Artsiukhou"
-email: "bebestdev@gmail.com"
+name: "Name surname"
+email: "email@gmail.com"
 description: "How to start programming. Online courses, programming languages, typical bugs etc"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ghpages-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-repository: "BeBestDev/bebestdev.github.io"
+repository: "artsiukhou/ghpages-jekyll"
 
 # Build settings
 markdown: kramdown
